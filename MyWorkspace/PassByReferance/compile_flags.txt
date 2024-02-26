@@ -1,0 +1,4 @@
+-IC:\Users\WCS\Desktop\cpp\MyWorkspace\PassByReferance
+-std=c++17
+-target
+

@@ -1,0 +1,4 @@
+-IC:\Users\WCS\Desktop\cpp\MyWorkspace\HowFunctionCallsWork
+-std=c++17
+-target
+

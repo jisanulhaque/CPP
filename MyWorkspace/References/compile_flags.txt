@@ -1,0 +1,4 @@
+-IC:\Users\WCS\Desktop\cpp\MyWorkspace\References
+-std=c++17
+-target
+

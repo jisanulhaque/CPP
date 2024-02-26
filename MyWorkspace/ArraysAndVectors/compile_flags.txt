@@ -1,0 +1,4 @@
+-IC:\Users\WCS\Desktop\cpp\MyWorkspace\ArraysAndVectors
+-std=c++17
+-target
+

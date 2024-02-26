@@ -1,0 +1,1 @@
+../build-Debug/Mystring-incertion-extraction/Mystring.cpp.o ../build-Debug/Mystring-incertion-extraction/main.cpp.o   

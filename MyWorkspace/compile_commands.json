@@ -1,0 +1,429 @@
+[{
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\BaseClassRef\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\BaseClassRef",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\BaseClassRef\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\BaseClassRef\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\VirtualDestructors\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\VirtualDestructors",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\VirtualDestructors\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\VirtualDestructors\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\VirtualFunctions\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\VirtualFunctions",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\VirtualFunctions\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\VirtualFunctions\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\CopyConstructorAssignmentOperator\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\CopyConstructorAssignmentOperator",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\CopyConstructorAssignmentOperator\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\CopyConstructorAssignmentOperator\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\TheProblem\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\TheProblem",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\TheProblem\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\TheProblem\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\BaseClassInitialization\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\BaseClassInitialization",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\BaseClassInitialization\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\BaseClassInitialization\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DerivingOurFirstClass\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DerivingOurFirstClass",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DerivingOurFirstClass\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DerivingOurFirstClass\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DerivingOurFirstClass\\Account.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DerivingOurFirstClass",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DerivingOurFirstClass\\Account.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DerivingOurFirstClass\\Account.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DerivingOurFirstClass\\Account.h",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DerivingOurFirstClass",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DerivingOurFirstClass\\Account.h -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DerivingOurFirstClass\\Account.h.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DerivingOurFirstClass\\Savings_Account.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DerivingOurFirstClass",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DerivingOurFirstClass\\Savings_Account.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DerivingOurFirstClass\\Savings_Account.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DerivingOurFirstClass\\Savings_Account.h",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DerivingOurFirstClass",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DerivingOurFirstClass\\Savings_Account.h -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DerivingOurFirstClass\\Savings_Account.h.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-section-challenge2\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-section-challenge2",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-section-challenge2\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-section-challenge2\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-section-challenge2\\Mystring.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-section-challenge2",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-section-challenge2\\Mystring.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-section-challenge2\\Mystring.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-section-challenge2\\Mystring.h",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-section-challenge2",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-section-challenge2\\Mystring.h -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-section-challenge2\\Mystring.h.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-operator-function\\Mystring.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-operator-function",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-operator-function\\Mystring.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-operator-function\\Mystring.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-operator-function\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-operator-function",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-operator-function\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-operator-function\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-operator-function\\Mystring.h",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-operator-function",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-operator-function\\Mystring.h -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-operator-function\\Mystring.h.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-start\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-start",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-start\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-start\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-start\\Mystring.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-start",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-start\\Mystring.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-start\\Mystring.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-start\\Mystring.h",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-start",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-start\\Mystring.h -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-start\\Mystring.h.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ConstInClasses\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ConstInClasses",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ConstInClasses\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ConstInClasses\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Protected-Members-Class-Access\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Protected-Members-Class-Access",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Protected-Members-Class-Access\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Protected-Members-Class-Access\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-move-assignment\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-move-assignment",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-move-assignment\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-move-assignment\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-move-assignment\\Mystring.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-move-assignment",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-move-assignment\\Mystring.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-move-assignment\\Mystring.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-move-assignment\\Mystring.h",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-move-assignment",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-move-assignment\\Mystring.h -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-move-assignment\\Mystring.h.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Vectors\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Vectors",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Vectors\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Vectors\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ShallowCopy\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ShallowCopy",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ShallowCopy\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ShallowCopy\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ConstructorAndDestructor\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ConstructorAndDestructor",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ConstructorAndDestructor\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ConstructorAndDestructor\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-copy-assignment\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-copy-assignment",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-copy-assignment\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-copy-assignment\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-copy-assignment\\Mystring.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-copy-assignment",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-copy-assignment\\Mystring.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-copy-assignment\\Mystring.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-copy-assignment\\Mystring.h",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-copy-assignment",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-copy-assignment\\Mystring.h -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-copy-assignment\\Mystring.h.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ImplementingMemberMethods\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ImplementingMemberMethods",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ImplementingMemberMethods\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ImplementingMemberMethods\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ScopeExamples\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ScopeExamples",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ScopeExamples\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ScopeExamples\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DeclareClassAndObjects\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DeclareClassAndObjects",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DeclareClassAndObjects\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DeclareClassAndObjects\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ReturnPointer\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ReturnPointer",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ReturnPointer\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ReturnPointer\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DeepCopy\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DeepCopy",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DeepCopy\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DeepCopy\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ConstructorInitializationList\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ConstructorInitializationList",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ConstructorInitializationList\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ConstructorInitializationList\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\PointerArithmetic\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\PointerArithmetic",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\PointerArithmetic\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\PointerArithmetic\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\RedefiningBaseClassMethods\\Account.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\RedefiningBaseClassMethods",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\RedefiningBaseClassMethods\\Account.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\RedefiningBaseClassMethods\\Account.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\RedefiningBaseClassMethods\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\RedefiningBaseClassMethods",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\RedefiningBaseClassMethods\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\RedefiningBaseClassMethods\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\RedefiningBaseClassMethods\\Savings_Account.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\RedefiningBaseClassMethods",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\RedefiningBaseClassMethods\\Savings_Account.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\RedefiningBaseClassMethods\\Savings_Account.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\RedefiningBaseClassMethods\\Account.h",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\RedefiningBaseClassMethods",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\RedefiningBaseClassMethods\\Account.h -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\RedefiningBaseClassMethods\\Account.h.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\RedefiningBaseClassMethods\\Savings_Account.h",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\RedefiningBaseClassMethods",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\RedefiningBaseClassMethods\\Savings_Account.h -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\RedefiningBaseClassMethods\\Savings_Account.h.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\CharactersAndStrings\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\CharactersAndStrings",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\CharactersAndStrings\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\CharactersAndStrings\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Function\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Function",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Function\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Function\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Dereferencing\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Dereferencing",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Dereferencing\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Dereferencing\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\PointersAndArrays\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\PointersAndArrays",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\PointersAndArrays\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\PointersAndArrays\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Debugger\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Debugger",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Debugger\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Debugger\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\SimplePointer\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\SimplePointer",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\SimplePointer\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\SimplePointer\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\VirtualFunctionNew\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\VirtualFunctionNew",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\VirtualFunctionNew\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\VirtualFunctionNew\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\test\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\test",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\test\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\test\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-operator-method\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-operator-method",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-operator-method\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-operator-method\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-operator-method\\Mystring.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-operator-method",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-operator-method\\Mystring.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-operator-method\\Mystring.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-operator-method\\Mystring.h",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-operator-method",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-operator-method\\Mystring.h -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-operator-method\\Mystring.h.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\TestRun\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\TestRun",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\TestRun\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\TestRun\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ReverseString\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ReverseString",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ReverseString\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ReverseString\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\SectionChallengeFunction\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\SectionChallengeFunction",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\SectionChallengeFunction\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\SectionChallengeFunction\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\PassingPointers1\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\PassingPointers1",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\PassingPointers1\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\PassingPointers1\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Factorial\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Factorial",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Factorial\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Factorial\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\RecursiveFunction\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\RecursiveFunction",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\RecursiveFunction\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\RecursiveFunction\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DelegatingConstructors\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DelegatingConstructors",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DelegatingConstructors\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DelegatingConstructors\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ProhramTemplate\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ProhramTemplate",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ProhramTemplate\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ProhramTemplate\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ImplementingMemberMethod2\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ImplementingMemberMethod2",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ImplementingMemberMethod2\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ImplementingMemberMethod2\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ImplementingMemberMethod2\\Account.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ImplementingMemberMethod2",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ImplementingMemberMethod2\\Account.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ImplementingMemberMethod2\\Account.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ImplementingMemberMethod2\\Account.h",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ImplementingMemberMethod2",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ImplementingMemberMethod2\\Account.h -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ImplementingMemberMethod2\\Account.h.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\References\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\References",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\References\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\References\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ConstructosAndDestructors\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ConstructosAndDestructors",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ConstructosAndDestructors\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ConstructosAndDestructors\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DynamicMemory\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DynamicMemory",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DynamicMemory\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DynamicMemory\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\StatementsAndOperators\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\StatementsAndOperators",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\StatementsAndOperators\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\StatementsAndOperators\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\PassByReferance\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\PassByReferance",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\PassByReferance\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\PassByReferance\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\FunctionOverloading\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\FunctionOverloading",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\FunctionOverloading\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\FunctionOverloading\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\CopyConstructor\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\CopyConstructor",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\CopyConstructor\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\CopyConstructor\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DefaultConstructor\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DefaultConstructor",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DefaultConstructor\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DefaultConstructor\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-incertion-extraction\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-incertion-extraction",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-incertion-extraction\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-incertion-extraction\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-incertion-extraction\\Mystring.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-incertion-extraction",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-incertion-extraction\\Mystring.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-incertion-extraction\\Mystring.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-incertion-extraction\\Mystring.h",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-incertion-extraction",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-incertion-extraction\\Mystring.h -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-incertion-extraction\\Mystring.h.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\FirstProgram\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\FirstProgram",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\FirstProgram\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\FirstProgram\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ArraysAndFunction\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ArraysAndFunction",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ArraysAndFunction\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ArraysAndFunction\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\BasicInputOutput\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\BasicInputOutput",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\BasicInputOutput\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\BasicInputOutput\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\StaticClassMembers\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\StaticClassMembers",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\StaticClassMembers\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\StaticClassMembers\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\StaticClassMembers\\Player.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\StaticClassMembers",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\StaticClassMembers\\Player.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\StaticClassMembers\\Player.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\StaticClassMembers\\Player.h",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\StaticClassMembers",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\StaticClassMembers\\Player.h -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\StaticClassMembers\\Player.h.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\MoveConstructor\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\MoveConstructor",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\MoveConstructor\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\MoveConstructor\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\HowFunctionCallsWork\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\HowFunctionCallsWork",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\HowFunctionCallsWork\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\HowFunctionCallsWork\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ControlFlow\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ControlFlow",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ControlFlow\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ControlFlow\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\FunctionParameter\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\FunctionParameter",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\FunctionParameter\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\FunctionParameter\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-section-challenge1\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-section-challenge1",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-section-challenge1\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-section-challenge1\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-section-challenge1\\Mystring.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-section-challenge1",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-section-challenge1\\Mystring.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-section-challenge1\\Mystring.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-section-challenge1\\Mystring.h",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-section-challenge1",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-section-challenge1\\Mystring.h -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\Mystring-section-challenge1\\Mystring.h.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ArraysAndVectors\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ArraysAndVectors",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ArraysAndVectors\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\ArraysAndVectors\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DefaultConstructorParameters\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DefaultConstructorParameters",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DefaultConstructorParameters\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DefaultConstructorParameters\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\BaseClassPointer\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\BaseClassPointer",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\BaseClassPointer\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\BaseClassPointer\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DefaultArguments\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DefaultArguments",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DefaultArguments\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\DefaultArguments\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\VariablesAndConstants\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\VariablesAndConstants",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\VariablesAndConstants\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\VariablesAndConstants\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\sectionChallenge\\Savings_Account.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\sectionChallenge",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\sectionChallenge\\Savings_Account.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\sectionChallenge\\Savings_Account.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\sectionChallenge\\Account.h",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\sectionChallenge",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\sectionChallenge\\Account.h -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\sectionChallenge\\Account.h.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\sectionChallenge\\Savings_Account.h",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\sectionChallenge",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\sectionChallenge\\Savings_Account.h -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\sectionChallenge\\Savings_Account.h.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\sectionChallenge\\Checking_Account.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\sectionChallenge",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\sectionChallenge\\Checking_Account.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\sectionChallenge\\Checking_Account.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\sectionChallenge\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\sectionChallenge",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\sectionChallenge\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\sectionChallenge\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\sectionChallenge\\Trust_Account.h",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\sectionChallenge",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\sectionChallenge\\Trust_Account.h -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\sectionChallenge\\Trust_Account.h.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\sectionChallenge\\Trust_Account.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\sectionChallenge",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\sectionChallenge\\Trust_Account.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\sectionChallenge\\Trust_Account.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\sectionChallenge\\Account_Util.h",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\sectionChallenge",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\sectionChallenge\\Account_Util.h -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\sectionChallenge\\Account_Util.h.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\sectionChallenge\\Account_Util.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\sectionChallenge",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\sectionChallenge\\Account_Util.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\sectionChallenge\\Account_Util.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\sectionChallenge\\Account.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\sectionChallenge",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\sectionChallenge\\Account.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\sectionChallenge\\Account.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\sectionChallenge\\Checking_Account.h",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\sectionChallenge",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\sectionChallenge\\Checking_Account.h -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\sectionChallenge\\Checking_Account.h.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\PassingPointers3\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\PassingPointers3",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\PassingPointers3\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\PassingPointers3\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\PassingPointers2\\main.cpp",
+  "directory": "C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\PassingPointers2",
+  "command": "C:/MinGW/bin/g++.exe -c C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\PassingPointers2\\main.cpp -o C:\\Users\\WCS\\Desktop\\cpp\\MyWorkspace\\PassingPointers2\\main.cpp.o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }]

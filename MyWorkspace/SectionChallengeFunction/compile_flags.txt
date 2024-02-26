@@ -1,0 +1,4 @@
+-IC:\Users\WCS\Desktop\cpp\MyWorkspace\SectionChallengeFunction
+-std=c++17
+-target
+
