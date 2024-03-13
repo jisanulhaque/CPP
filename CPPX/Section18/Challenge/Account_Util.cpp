@@ -1,15 +1,16 @@
 #include <iostream>
 #include "Account_Util.h"
 
-void display(const std::vector<Account *> &account) {
-    for (const auto acc: account) 
+
+
+void display(const std::vector<std::unique_ptr<Account>> &accounts) {
+    for (const auto &acc: accounts) 
         std::cout << *acc << std::endl;
 }
 
 // Deposits supplied amount to each Account object in the vector
-void deposit(std::vector<Account *> &account, double amount) {
-    
-    for (auto acc:account)  {
+void deposit(std::vector<std::unique_ptr<Account>> &accounts, double amount) {
+    for (auto &acc:accounts)  {
         if (acc->deposit(amount)) 
             std::cout << "Deposited " << amount << " to " << *acc << std::endl;
         else
@@ -18,8 +19,8 @@ void deposit(std::vector<Account *> &account, double amount) {
 }
 
 // Withdraw amount from each Account object in the vector
-void withdraw(std::vector<Account *> &account, double amount) {
-    for (auto &acc:account)  {
+void withdraw(std::vector<std::unique_ptr<Account>> &accounts, double amount) {
+    for (auto &acc:accounts)  {
         if (acc->withdraw(amount)) 
             std::cout << "Withdrew " << amount << " from " << *acc << std::endl;
         else
