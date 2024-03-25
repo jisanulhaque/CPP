@@ -66,6 +66,8 @@ int main()
         }
     };
 
+    
+
     // Unformatted display so you can see how to access the vector elements
     ruler(); //Ruler for reference
     std::cout <<setw(15)<<" "<< tours.title << std::endl;
@@ -75,22 +77,27 @@ int main()
         <<"|"<<setw(14)<<left<<"City"
         <<"|"<<setw(14)<<left<<"Population"
         <<"|"<<setw(14)<<left<<"Cost"<<"|"<<endl;
+
+
     
     cout<<"-------------------------------------------------------------"<<endl;
+    
     for(auto country : tours.countries) {   // loop through the countries
         std::cout <<"|"<<setw(14)<<left<< country.name;
+        int len = country.cities.size();
+        int i {0};
         for(auto city : country.cities) {       // loop through the cities for each country
             std::cout <<"|"<<setw(14)<<left<< city.name 
                           <<"|"<<setw(14)<<right<< city.population 
                           <<"|"<<setw(14)<<right<< city.cost 
                           <<"|"<< std::endl;
-            int i = 0;
-            int len = country.cities.size();
             
-            if(i < (len-2)){
+            if(i < (len-1)){
+                cout<<"|"<<setw(15);   
                 i++;
-                cout<<"|"<<setw(15);
-            }
+                //cout<<i;
+           }
+           
                           
         }
         
