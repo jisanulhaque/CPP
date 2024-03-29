@@ -66,12 +66,13 @@ int main()
         }
     };
 
-    
+    int total_width =60;
 
     // Unformatted display so you can see how to access the vector elements
     ruler(); //Ruler for reference
-    std::cout <<setw(15)<<" "<< tours.title << std::endl;
-    cout<<endl;
+   int title_len = tours.title.length();
+    std::cout <<setw((total_width-title_len)/2)<<""<< tours.title << std::endl;
+    cout<<endl;     
 
     cout<<"|"<<setw(14)<<left<<"Country"
         <<"|"<<setw(14)<<left<<"City"
@@ -80,29 +81,29 @@ int main()
 
 
     
-    cout<<"-------------------------------------------------------------"<<endl;
+    cout<<setw(total_width)<<setfill('-')<<""<<endl;//make a line according to the total width 
     
+    cout<<setfill(' ');
+    cout<<setprecision(2)<<fixed;
+
+
     for(auto country : tours.countries) {   // loop through the countries
-        std::cout <<"|"<<setw(14)<<left<< country.name;
-        int len = country.cities.size();
-        int i {0};
-        for(auto city : country.cities) {       // loop through the cities for each country
-            std::cout <<"|"<<setw(14)<<left<< city.name 
-                          <<"|"<<setw(14)<<right<< city.population 
-                          <<"|"<<setw(14)<<right<< city.cost 
+        for(size_t i =0; i< country.cities.size(); i++) {       
+            std::cout   <<"|"<<setw(14)<<left<<(i==0 ? country.name:"") 
+                        /*
+                        *when i= 0, print country.name else print ""
+                        *i=0 comes ones in the loop so after printing country name the 
+                        further loop continues and prints the cities
+                        */
+                        <<"|"<<setw(14)<<left<< country.cities[i].name 
+                          <<"|"<<setw(14)<<right<< country.cities[i].population 
+                          <<"|"<<setw(14)<<right<< country.cities[i].cost 
                           <<"|"<< std::endl;
             
-            if(i < (len-1)){
-                cout<<"|"<<setw(15);   
-                i++;
-                //cout<<i;
            }
-           
-                          
+                                     
         }
         
-    }
-
     std::cout << std::endl << std::endl;
     return 0;
 }
